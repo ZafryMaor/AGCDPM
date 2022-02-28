@@ -1,6 +1,6 @@
 # Annotated Gene Clusters Discriminative Patterns Miner
 
-__Maor M. Zafry
+Maor M. Zafry
 <br>
 
 ## Table of contents
