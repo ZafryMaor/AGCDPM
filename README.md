@@ -37,13 +37,14 @@ There are three optional methods of the application that may be used by adding a
   2) The -e flag allows the user to "expand" a single pattern, considering only discriminative pattens that include this pattern. In order use this method a file named "pattern_to_expand.txt" located in the application's directory, containing a single itemset (a single line with item names separated by ',').<br>
   3) The -a flag allows the user to add item annotations (in case the item names are ids like "COG1337" for example) to be presented with each pattern in the output. The path to the annotations file must be given right after the -a flag. The annotations file should include a line for each item id where the line starts with the id followed by a tab and then the annotation in a string form. The annotation must not contain new line characters.<br>
 
-Examples for optional files can be found in the optional files directory.<br>
+Examples for optional files can be found in the optional files directory ("item descriptions.txt" examplifies an annotations file).<br>
 
 ## Output
 The application outputs three files to the application's directory:<br>
   1) Results: the file containing the discriminative patterns found by the application named "results for [transaction dataset file name]". Each result presented includes the        minimal and completed form (includes all items found with the pattern in every instance) of the pattern, the Information Gain score of the pattern, the support of the            pattern in each label, the p-value and q'-value of the pattern and optionally the annotaion for each of the items in the pattern (in case the -a flag was used).
   2) Redundant patterns: a file containing the patterns found ordered in decreasing order by a redundancy score given to each pattern (higher redundancy score is more                redundant) named "potentially_redundent_for_[transaction dataset file name]".
-  3) Patterns to remove: if the -r flag was not used a file containing all patterns found with a redundancy score greater than 1 named                                                "patterns_to_remove_for_[transaction dataset file name]" is created. If the -r flag was used the patterns found with a redundancy score greater than 1 are automaticlly           added to the end of the given "patterns_to_remove.txt" file.
+  3) Patterns to remove: if the -r flag was not used a file containing all patterns found with a redundancy score greater than 1 named                                                "patterns_to_remove_for_[transaction dataset file name]" is created. If the -r flag was used the patterns found with a redundancy score greater than 1 are automaticlly           added to the end of the given "patterns_to_remove.txt" file.<br>
 
+Output files of the experiments described in our work can be found in the results directory.
 
 
