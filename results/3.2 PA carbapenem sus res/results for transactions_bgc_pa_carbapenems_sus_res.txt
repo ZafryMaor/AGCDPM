@@ -1,0 +1,211 @@
+Parameters used: min_sup = 1, k = 30, l = 6
+//
+Rank 1
+Minimal pattern(2): quorum-sensing transcriptional regulator RsaL,cation-transporting P-type ATPase
+Complete pattern(7): quorum-sensing transcriptional regulator RsaL,cation-transporting P-type ATPase,EAL domain-containing protein,acyl-homoserine-lactone synthase LasI,hserlactone,transcriptional regulator LasR,transglutaminase-like cysteine peptidase
+Information Gain: 0.10648 ; p-value: 5.22753e-07 ; q-value: 0.0152696
+Support (by genome not transaction) in label 0: 97/120
+Support (by genome not transaction) in label 1: 23/55
+//
+Rank 2
+Minimal pattern(3): phenazine biosynthesis protein PhzC,2OG-Fe(II) oxygenase,phenazine biosynthesis protein PhzB
+Complete pattern(8): phenazine biosynthesis protein PhzC,2OG-Fe(II) oxygenase,phenazine biosynthesis protein PhzB,fatty acid desaturase,penicillin acylase family protein,phenazine,quorum-sensing transcriptional repressor QscR,sterol desaturase family protein
+Information Gain: 0.101262 ; p-value: 1.47402e-06 ; q-value: 0.0215281
+Support (by genome not transaction) in label 0: 71/120
+Support (by genome not transaction) in label 1: 11/55
+//
+Rank 3
+Minimal pattern(2): phenazine-1-carboxylate N-methyltransferase PhzM,phenazine biosynthesis protein PhzA
+Complete pattern(6): phenazine-1-carboxylate N-methyltransferase PhzM,phenazine biosynthesis protein PhzA,phenazine,multidrug efflux RND transporter periplasmic adaptor MexH,multidrug efflux RND transporter permease MexI,multidrug efflux transporter outer membrane subunit OpmD
+Information Gain: 0.0938375 ; p-value: 2.86245e-06 ; q-value: 0.020903
+Support (by genome not transaction) in label 0: 115/120
+Support (by genome not transaction) in label 1: 38/55
+//
+Rank 4
+Minimal pattern(3): phosphoethanolamine--lipid A transferase,condensation domain-containing protein,two-component system sensor histidine kinase HtpB
+Complete pattern(33): phosphoethanolamine--lipid A transferase,condensation domain-containing protein,two-component system sensor histidine kinase HtpB,DMT family transporter,MFS transporter,class I SAM-dependent methyltransferase,non-ribosomal peptide synthetase,ABC transporter permease,NAD(P)-dependent oxidoreductase,SDR family oxidoreductase,NRPS,cytochrome P450,MarR family transcriptional regulator,ADP-glyceromanno-heptose 6-epimerase,ATP-dependent Clp protease proteolytic subunit,DNA helicase RecQ,DUF2804 domain-containing protein,FAD-dependent monooxygenase,FimV family protein,GGDEF domain-containing protein,M24 family metallopeptidase,MerR family transcriptional regulator,SelT/SelW/SelH family protein,acyl carrier protein,bifunctional diguanylate,ketoacyl-ACP synthase III,metal-dependent hydrolase,nuclear transport factor 2 family protein,patatin-like phospholipase PlpD,phospholipase C- phosphocholine-specific,phosphonate ABC transporter ATP-binding protein,phosphonate ABC transporter- permease protein PhnE,putative selenate ABC transporter substrate-binding protein
+Information Gain: 0.0929657 ; p-value: 2.68065e-06 ; q-value: 0.0261006
+Support (by genome not transaction) in label 0: 104/120
+Support (by genome not transaction) in label 1: 29/55
+//
+Rank 5
+Minimal pattern(2): multidrug efflux transporter outer membrane subunit OpmD,phenazine biosynthesis protein PhzA
+Complete pattern(5): multidrug efflux transporter outer membrane subunit OpmD,phenazine biosynthesis protein PhzA,phenazine,multidrug efflux RND transporter periplasmic adaptor MexH,multidrug efflux RND transporter permease MexI
+Information Gain: 0.0846182 ; p-value: 8.80614e-06 ; q-value: 0.0428712
+Support (by genome not transaction) in label 0: 115/120
+Support (by genome not transaction) in label 1: 39/55
+//
+Rank 6
+Minimal pattern(2): multidrug efflux RND transporter permease MexI,phenazine biosynthesis protein PhzA
+Complete pattern(5): multidrug efflux RND transporter permease MexI,phenazine biosynthesis protein PhzA,phenazine,multidrug efflux RND transporter periplasmic adaptor MexH,multidrug efflux transporter outer membrane subunit OpmD
+Information Gain: 0.0846182 ; p-value: 8.80614e-06 ; q-value: 0.0367467
+Support (by genome not transaction) in label 0: 115/120
+Support (by genome not transaction) in label 1: 39/55
+//
+Rank 7
+Minimal pattern(2): multidrug efflux RND transporter periplasmic adaptor MexH,phenazine biosynthesis protein PhzA
+Complete pattern(5): multidrug efflux RND transporter periplasmic adaptor MexH,phenazine biosynthesis protein PhzA,phenazine,multidrug efflux RND transporter permease MexI,multidrug efflux transporter outer membrane subunit OpmD
+Information Gain: 0.0846182 ; p-value: 8.80614e-06 ; q-value: 0.0321534
+Support (by genome not transaction) in label 0: 115/120
+Support (by genome not transaction) in label 1: 39/55
+//
+Rank 8
+Minimal pattern(2): condensation domain-containing protein,two-component system sensor histidine kinase HtpB
+Complete pattern(20): condensation domain-containing protein,two-component system sensor histidine kinase HtpB,MFS transporter,class I SAM-dependent methyltransferase,non-ribosomal peptide synthetase,NRPS,cytochrome P450,MarR family transcriptional regulator,ADP-glyceromanno-heptose 6-epimerase,ATP-dependent Clp protease proteolytic subunit,DNA helicase RecQ,DUF2804 domain-containing protein,FAD-dependent monooxygenase,FimV family protein,GGDEF domain-containing protein,SelT/SelW/SelH family protein,acyl carrier protein,ketoacyl-ACP synthase III,nuclear transport factor 2 family protein,patatin-like phospholipase PlpD
+Information Gain: 0.0845756 ; p-value: 8.41766e-06 ; q-value: 0.049176
+Support (by genome not transaction) in label 0: 114/120
+Support (by genome not transaction) in label 1: 38/55
+//
+Rank 9
+Minimal pattern(2): porin,outer membrane porin OprP
+Complete pattern(10): porin,outer membrane porin OprP,DoxX family protein,RiPP-like,DUF2063 domain-containing protein,RNA polymerase sigma factor,ankyrin repeat domain-containing protein,beta-ketoacyl-ACP synthase III,cysteine hydrolase family protein,zf-HC2 domain-containing protein
+Information Gain: 0.0760228 ; p-value: 4.23536e-05 ; q-value: 0.112468
+Support (by genome not transaction) in label 0: 1/120
+Support (by genome not transaction) in label 1: 10/55
+//
+Rank 10
+Minimal pattern(2): multidrug efflux RND transporter inhibitory subunit MexG,phenazine biosynthesis protein PhzA
+Complete pattern(6): multidrug efflux RND transporter inhibitory subunit MexG,phenazine biosynthesis protein PhzA,phenazine,multidrug efflux RND transporter periplasmic adaptor MexH,multidrug efflux RND transporter permease MexI,multidrug efflux transporter outer membrane subunit OpmD
+Information Gain: 0.075785 ; p-value: 2.4656e-05 ; q-value: 0.0800223
+Support (by genome not transaction) in label 0: 114/120
+Support (by genome not transaction) in label 1: 39/55
+//
+Rank 11
+Minimal pattern(3): 2OG-Fe(II) oxygenase,phenazine biosynthesis protein PhzB,phenazine biosynthesis protein PhzA
+Complete pattern(8): 2OG-Fe(II) oxygenase,phenazine biosynthesis protein PhzB,phenazine biosynthesis protein PhzA,fatty acid desaturase,penicillin acylase family protein,phenazine,quorum-sensing transcriptional repressor QscR,sterol desaturase family protein
+Information Gain: 0.0712018 ; p-value: 4.02424e-05 ; q-value: 0.117548
+Support (by genome not transaction) in label 0: 103/120
+Support (by genome not transaction) in label 1: 31/55
+//
+Rank 12
+Minimal pattern(3): phenazine biosynthesis protein PhzE,2OG-Fe(II) oxygenase,phenazine biosynthesis protein PhzB
+Complete pattern(10): phenazine biosynthesis protein PhzE,2OG-Fe(II) oxygenase,phenazine biosynthesis protein PhzB,fatty acid desaturase,penicillin acylase family protein,phenazine,phenazine biosynthesis protein PhzC,phenazine biosynthesis protein PhzD,quorum-sensing transcriptional repressor QscR,sterol desaturase family protein
+Information Gain: 0.0657673 ; p-value: 0.000138589 ; q-value: 0.33735
+Support (by genome not transaction) in label 0: 53/120
+Support (by genome not transaction) in label 1: 8/55
+//
+Rank 13
+Minimal pattern(3): phenazine biosynthesis protein PhzD,2OG-Fe(II) oxygenase,phenazine biosynthesis protein PhzB
+Complete pattern(9): phenazine biosynthesis protein PhzD,2OG-Fe(II) oxygenase,phenazine biosynthesis protein PhzB,fatty acid desaturase,penicillin acylase family protein,phenazine,phenazine biosynthesis protein PhzC,quorum-sensing transcriptional repressor QscR,sterol desaturase family protein
+Information Gain: 0.0605743 ; p-value: 0.000204456 ; q-value: 0.459397
+Support (by genome not transaction) in label 0: 57/120
+Support (by genome not transaction) in label 1: 10/55
+//
+Rank 14
+Minimal pattern(2): phenazine-specific anthranilate synthase component I,ABC transporter ATP-binding protein PchH
+Complete pattern(17): phenazine-specific anthranilate synthase component I,ABC transporter ATP-binding protein PchH,phenazine biosynthesis FMN-dependent oxidase PhzG,phenazine biosynthesis protein PhzF,ABC transporter ATP-binding protein PchI,Fe(3+)-pyochelin receptor FptA,NRPS,PepSY domain-containing protein,isochorismate lyase PchB,isochorismate synthase PchA,pyochelin biosynthesis editing thioesterase PchC,pyochelin biosynthesis salicyl-AMP ligase PchD,pyochelin biosynthesis thiazoline reductase PchG,pyochelin biosynthesis transcriptional regulator PchR,pyochelin non-ribosomal peptide synthetase PchE,pyochelin non-ribosomal peptide synthetase PchF,pyocyanin biosynthetic protein PhzM
+Information Gain: 0.0591961 ; p-value: 0.000792445 ; q-value: 0.964471
+Support (by genome not transaction) in label 0: 0/120
+Support (by genome not transaction) in label 1: 6/55
+//
+Rank 15
+Minimal pattern(2): phenazine biosynthesis protein phzB 2,dienelactone hydrolase
+Complete pattern(14): phenazine biosynthesis protein phzB 2,dienelactone hydrolase,MFS transporter,2OG-Fe(II) oxygenase,HIT family protein,fatty acid desaturase,penicillin acylase family protein,phenazine,phenazine biosynthesis FMN-dependent oxidase PhzG,phenazine biosynthesis protein PhzC,phenazine biosynthesis protein PhzD,phenazine biosynthesis protein PhzF,quorum-sensing transcriptional repressor QscR,sterol desaturase family protein
+Information Gain: 0.0591961 ; p-value: 0.000792445 ; q-value: 1.0064
+Support (by genome not transaction) in label 0: 0/120
+Support (by genome not transaction) in label 1: 6/55
+//
+Rank 16
+Minimal pattern(2): penicillin acylase family protein,phenazine biosynthesis protein PhzB
+Complete pattern(7): penicillin acylase family protein,phenazine biosynthesis protein PhzB,2OG-Fe(II) oxygenase,fatty acid desaturase,phenazine,quorum-sensing transcriptional repressor QscR,sterol desaturase family protein
+Information Gain: 0.0565919 ; p-value: 0.000319515 ; q-value: 0.666645
+Support (by genome not transaction) in label 0: 103/120
+Support (by genome not transaction) in label 1: 33/55
+//
+Rank 17
+Minimal pattern(2): sterol desaturase family protein,phenazine biosynthesis protein PhzB
+Complete pattern(7): sterol desaturase family protein,phenazine biosynthesis protein PhzB,2OG-Fe(II) oxygenase,fatty acid desaturase,penicillin acylase family protein,phenazine,quorum-sensing transcriptional repressor QscR
+Information Gain: 0.0565919 ; p-value: 0.000319515 ; q-value: 0.622202
+Support (by genome not transaction) in label 0: 103/120
+Support (by genome not transaction) in label 1: 33/55
+//
+Rank 18
+Minimal pattern(2): fatty acid desaturase,phenazine biosynthesis protein PhzB
+Complete pattern(7): fatty acid desaturase,phenazine biosynthesis protein PhzB,2OG-Fe(II) oxygenase,penicillin acylase family protein,phenazine,quorum-sensing transcriptional repressor QscR,sterol desaturase family protein
+Information Gain: 0.0565919 ; p-value: 0.000319515 ; q-value: 0.583314
+Support (by genome not transaction) in label 0: 103/120
+Support (by genome not transaction) in label 1: 33/55
+//
+Rank 19
+Minimal pattern(2): quorum-sensing transcriptional repressor QscR,phenazine biosynthesis protein PhzB
+Complete pattern(7): quorum-sensing transcriptional repressor QscR,phenazine biosynthesis protein PhzB,2OG-Fe(II) oxygenase,fatty acid desaturase,penicillin acylase family protein,phenazine,sterol desaturase family protein
+Information Gain: 0.0565919 ; p-value: 0.000319515 ; q-value: 0.549002
+Support (by genome not transaction) in label 0: 103/120
+Support (by genome not transaction) in label 1: 33/55
+//
+Rank 20
+Minimal pattern(4): phenazine biosynthesis FMN-dependent oxidase PhzG,2OG-Fe(II) oxygenase,phenazine biosynthesis protein PhzB,phenazine biosynthesis protein PhzA
+Complete pattern(9): phenazine biosynthesis FMN-dependent oxidase PhzG,2OG-Fe(II) oxygenase,phenazine biosynthesis protein PhzB,phenazine biosynthesis protein PhzA,fatty acid desaturase,penicillin acylase family protein,phenazine,quorum-sensing transcriptional repressor QscR,sterol desaturase family protein
+Information Gain: 0.0537414 ; p-value: 0.000516914 ; q-value: 0.794687
+Support (by genome not transaction) in label 0: 43/120
+Support (by genome not transaction) in label 1: 6/55
+//
+Rank 21
+Minimal pattern(4): phenazine biosynthesis protein PhzF,2OG-Fe(II) oxygenase,phenazine biosynthesis protein PhzB,phenazine biosynthesis protein PhzA
+Complete pattern(10): phenazine biosynthesis protein PhzF,2OG-Fe(II) oxygenase,phenazine biosynthesis protein PhzB,phenazine biosynthesis protein PhzA,fatty acid desaturase,penicillin acylase family protein,phenazine,phenazine biosynthesis protein PhzC,quorum-sensing transcriptional repressor QscR,sterol desaturase family protein
+Information Gain: 0.0533922 ; p-value: 0.000653621 ; q-value: 0.867831
+Support (by genome not transaction) in label 0: 46/120
+Support (by genome not transaction) in label 1: 7/55
+//
+Rank 22
+Minimal pattern(4): HIT family protein,phenazine biosynthesis protein PhzB,phenazine biosynthesis protein PhzA,phenazine biosynthesis protein PhzC
+Complete pattern(5): HIT family protein,phenazine biosynthesis protein PhzB,phenazine biosynthesis protein PhzA,phenazine biosynthesis protein PhzC,phenazine
+Information Gain: 0.0533922 ; p-value: 0.000653621 ; q-value: 0.909156
+Support (by genome not transaction) in label 0: 46/120
+Support (by genome not transaction) in label 1: 7/55
+//
+Rank 23
+Minimal pattern(2): gluconolactonase PpgL,phenazine biosynthesis protein PhzA
+Complete pattern(7): gluconolactonase PpgL,phenazine biosynthesis protein PhzA,phenazine,multidrug efflux RND transporter inhibitory subunit MexG,multidrug efflux RND transporter periplasmic adaptor MexH,multidrug efflux RND transporter permease MexI,multidrug efflux transporter outer membrane subunit OpmD
+Information Gain: 0.0527004 ; p-value: 0.000424889 ; q-value: 0.689501
+Support (by genome not transaction) in label 0: 108/120
+Support (by genome not transaction) in label 1: 37/55
+//
+Rank 24
+Minimal pattern(4): carbohydrate porin OprB,DUF971 domain-containing protein,acyl-CoA dehydrogenase family protein,serine hydrolase
+Complete pattern(23): carbohydrate porin OprB,DUF971 domain-containing protein,acyl-CoA dehydrogenase family protein,serine hydrolase,MFS transporter,FAD-binding oxidoreductase,cupin domain-containing protein,LysR family transcriptional regulator,TauD/TfdA family dioxygenase,ABC transporter ATP-binding protein,ABC transporter permease,NRPS,ABC transporter substrate-binding protein,GntP family permease,GntR family transcriptional regulator,HEAT repeat domain-containing protein,LacI family DNA-binding transcriptional regulator GntR,LysE family translocator,NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,XRE family transcriptional regulator,YbaK/EbsC family protein,ferredoxin family protein,fumarate reductase/succinate dehydrogenase flavoprotein subunit
+Information Gain: 0.0522485 ; p-value: 0.000900827 ; q-value: 1.05253
+Support (by genome not transaction) in label 0: 32/120
+Support (by genome not transaction) in label 1: 3/55
+//
+Rank 25
+Minimal pattern(2): ferripyoverdine/pyocin S3 receptor FpvA,phosphopantetheine-binding protein
+Complete pattern(4): ferripyoverdine/pyocin S3 receptor FpvA,phosphopantetheine-binding protein,pyoverdine biosynthesis hydroxyornithine transformylase PvdF,pyoverdine export ABC transporter PvdE
+Information Gain: 0.0521113 ; p-value: 0.00148948 ; q-value: 1.67338
+Support (by genome not transaction) in label 0: 23/120
+Support (by genome not transaction) in label 1: 1/55
+//
+Rank 26
+Minimal pattern(2): pyoverdine export ABC transporter PvdE,phosphopantetheine-binding protein
+Complete pattern(4): pyoverdine export ABC transporter PvdE,phosphopantetheine-binding protein,pyoverdine biosynthesis hydroxyornithine transformylase PvdF,ferripyoverdine/pyocin S3 receptor FpvA
+Information Gain: 0.0521113 ; p-value: 0.00148948 ; q-value: 1.6114
+Support (by genome not transaction) in label 0: 23/120
+Support (by genome not transaction) in label 1: 1/55
+//
+Rank 27
+Minimal pattern(1): outer membrane porin OprO
+Complete pattern(9): outer membrane porin OprO,DoxX family protein,RiPP-like,DUF2063 domain-containing protein,RNA polymerase sigma factor,ankyrin repeat domain-containing protein,beta-ketoacyl-ACP synthase III,cysteine hydrolase family protein,zf-HC2 domain-containing protein
+Information Gain: 0.0505313 ; p-value: 0.000612454 ; q-value: 0.894489
+Support (by genome not transaction) in label 0: 116/120
+Support (by genome not transaction) in label 1: 44/55
+//
+Rank 28
+Minimal pattern(2): acyltransferase domain-containing protein,ATP-binding cassette domain-containing protein
+Complete pattern(21): acyltransferase domain-containing protein,ATP-binding cassette domain-containing protein,LysR family transcriptional regulator,alpha/beta fold hydrolase,ABC transporter permease,acyl carrier protein,transporter,ABC transporter substrate-binding protein,amino acid adenylation domain-containing protein,CerR family C-terminal domain-containing protein,HlyD family efflux transporter periplasmic adaptor subunit,T1PKS,T3PKS,acyl-CoA/acyl-ACP dehydrogenase,aliphatic sulfonate ABC transporter substrate-binding protein,efflux transporter outer membrane subunit,polyamine ABC transporter substrate-binding protein,quorum threshold expression protein QteE,transcriptional regulator VqsR,tryptophan 7-halogenase,type III polyketide synthase
+Information Gain: 0.0490486 ; p-value: 0.00269431 ; q-value: 2.81074
+Support (by genome not transaction) in label 0: 0/120
+Support (by genome not transaction) in label 1: 5/55
+//
+Rank 29
+Minimal pattern(2): phenazine biosynthesis protein PhzA 2,HIT family protein
+Complete pattern(13): phenazine biosynthesis protein PhzA 2,HIT family protein,MFS transporter,2OG-Fe(II) oxygenase,fatty acid desaturase,penicillin acylase family protein,phenazine,phenazine biosynthesis FMN-dependent oxidase PhzG,phenazine biosynthesis protein PhzC,phenazine biosynthesis protein PhzD,phenazine biosynthesis protein PhzF,quorum-sensing transcriptional repressor QscR,sterol desaturase family protein
+Information Gain: 0.0490486 ; p-value: 0.00269431 ; q-value: 2.71382
+Support (by genome not transaction) in label 0: 0/120
+Support (by genome not transaction) in label 1: 5/55
+//
+Rank 30
+Minimal pattern(2): phenazine biosynthesis protein phzA 1,phenazine-specific anthranilate synthase component I
+Complete pattern(13): phenazine biosynthesis protein phzA 1,phenazine-specific anthranilate synthase component I,phenazine,phenazine biosynthesis FMN-dependent oxidase PhzG,phenazine biosynthesis protein PhzC,phenazine biosynthesis protein PhzD,phenazine biosynthesis protein PhzF,gluconolactonase PpgL,multidrug efflux RND transporter inhibitory subunit MexG,multidrug efflux RND transporter periplasmic adaptor MexH,multidrug efflux RND transporter permease MexI,multidrug efflux transporter outer membrane subunit OpmD,phenazine biosynthesis protein PhzB
+Information Gain: 0.0490486 ; p-value: 0.00269431 ; q-value: 2.62336
+Support (by genome not transaction) in label 0: 0/120
+Support (by genome not transaction) in label 1: 5/55

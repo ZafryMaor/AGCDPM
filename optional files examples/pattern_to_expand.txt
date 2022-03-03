@@ -1,0 +1,1 @@
+quorum-sensing transcriptional regulator RsaL,cation-transporting P-type ATPase,EAL domain-containing protein,acyl-homoserine-lactone synthase LasI,hserlactone,transcriptional regulator LasR,transglutaminase-like cysteine peptidase

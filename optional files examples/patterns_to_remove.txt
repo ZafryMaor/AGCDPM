@@ -1,0 +1,4 @@
+penicillin acylase family protein,phenazine biosynthesis protein PhzB,2OG-Fe(II) oxygenase,fatty acid desaturase,phenazine,quorum-sensing transcriptional repressor QscR,sterol desaturase family protein
+2OG-Fe(II) oxygenase,phenazine biosynthesis protein PhzB,phenazine biosynthesis protein PhzA,fatty acid desaturase,penicillin acylase family protein,phenazine,quorum-sensing transcriptional repressor QscR,sterol desaturase family protein
+multidrug efflux RND transporter inhibitory subunit MexG,phenazine biosynthesis protein PhzA,phenazine,multidrug efflux RND transporter periplasmic adaptor MexH,multidrug efflux RND transporter permease MexI,multidrug efflux transporter outer membrane subunit OpmD
+ferripyoverdine/pyocin S3 receptor FpvA,phosphopantetheine-binding protein,pyoverdine biosynthesis hydroxyornithine transformylase PvdF,pyoverdine export ABC transporter PvdE
