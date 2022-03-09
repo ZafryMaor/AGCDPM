@@ -1,0 +1,211 @@
+Parameters used: min_sup = 1, k = 30, l = 6
+//
+Rank 1
+Minimal pattern(1): TonB-dependent siderophore receptor
+Complete pattern(1): TonB-dependent siderophore receptor
+Information Gain: 0.24868 ; p-value: 0 ; q-value: 0
+Support (by genome not transaction) in label 0: 0/2220
+Support (by genome not transaction) in label 1: 3281/5956
+//
+Rank 2
+Minimal pattern(1): isochorismate synthase DhbC
+Complete pattern(2): isochorismate synthase DhbC,2-3-dihydro-2-3-dihydroxybenzoate dehydrogenase
+Information Gain: 0.214103 ; p-value: 0 ; q-value: 0
+Support (by genome not transaction) in label 0: 839/2220
+Support (by genome not transaction) in label 1: 3/5956
+//
+Rank 3
+Minimal pattern(1): enterochelin esterase
+Complete pattern(1): enterochelin esterase
+Information Gain: 0.212178 ; p-value: 0 ; q-value: 0
+Support (by genome not transaction) in label 0: 3/2220
+Support (by genome not transaction) in label 1: 2960/5956
+//
+Rank 4
+Minimal pattern(1): enterobactin transporter EntS
+Complete pattern(1): enterobactin transporter EntS
+Information Gain: 0.207678 ; p-value: 0 ; q-value: 0
+Support (by genome not transaction) in label 0: 0/2220
+Support (by genome not transaction) in label 1: 2875/5956
+//
+Rank 5
+Minimal pattern(1): Fe2+-enterobactin ABC transporter substrate-binding protein
+Complete pattern(1): Fe2+-enterobactin ABC transporter substrate-binding protein
+Information Gain: 0.203583 ; p-value: 0 ; q-value: 0
+Support (by genome not transaction) in label 0: 0/2220
+Support (by genome not transaction) in label 1: 2832/5956
+//
+Rank 6
+Minimal pattern(1): Fe(3+)-siderophore ABC transporter permease
+Complete pattern(1): Fe(3+)-siderophore ABC transporter permease
+Information Gain: 0.190912 ; p-value: 0 ; q-value: 0
+Support (by genome not transaction) in label 0: 0/2220
+Support (by genome not transaction) in label 1: 2696/5956
+//
+Rank 7
+Minimal pattern(1): iron-enterobactin ABC transporter permease
+Complete pattern(1): iron-enterobactin ABC transporter permease
+Information Gain: 0.186991 ; p-value: 0 ; q-value: 0
+Support (by genome not transaction) in label 0: 0/2220
+Support (by genome not transaction) in label 1: 2653/5956
+//
+Rank 8
+Minimal pattern(1): YbdD/YjiX family protein
+Complete pattern(1): YbdD/YjiX family protein
+Information Gain: 0.173182 ; p-value: 0 ; q-value: 0
+Support (by genome not transaction) in label 0: 0/2220
+Support (by genome not transaction) in label 1: 2498/5956
+//
+Rank 9
+Minimal pattern(1): enterobactin synthase subunit EntD
+Complete pattern(2): enterobactin synthase subunit EntD,enterochelin esterase
+Information Gain: 0.168399 ; p-value: 0 ; q-value: 0
+Support (by genome not transaction) in label 0: 0/2220
+Support (by genome not transaction) in label 1: 2443/5956
+//
+Rank 10
+Minimal pattern(1): iron-enterobactin ABC transporter ATP-binding protein
+Complete pattern(1): iron-enterobactin ABC transporter ATP-binding protein
+Information Gain: 0.167622 ; p-value: 0 ; q-value: 0
+Support (by genome not transaction) in label 0: 0/2220
+Support (by genome not transaction) in label 1: 2434/5956
+//
+Rank 11
+Minimal pattern(1): proofreading thioesterase EntH
+Complete pattern(1): proofreading thioesterase EntH
+Information Gain: 0.166245 ; p-value: 0 ; q-value: 0
+Support (by genome not transaction) in label 0: 0/2220
+Support (by genome not transaction) in label 1: 2418/5956
+//
+Rank 12
+Minimal pattern(2): isochorismate synthase EntC,Fe2+-enterobactin ABC transporter substrate-binding protein
+Complete pattern(2): isochorismate synthase EntC,Fe2+-enterobactin ABC transporter substrate-binding protein
+Information Gain: 0.165815 ; p-value: 0 ; q-value: 0
+Support (by genome not transaction) in label 0: 0/2220
+Support (by genome not transaction) in label 1: 2413/5956
+//
+Rank 13
+Minimal pattern(1): carbon starvation protein CstA
+Complete pattern(1): carbon starvation protein CstA
+Information Gain: 0.164102 ; p-value: 0 ; q-value: 0
+Support (by genome not transaction) in label 0: 0/2220
+Support (by genome not transaction) in label 1: 2393/5956
+//
+Rank 14
+Minimal pattern(1): multidrug efflux MFS transporter
+Complete pattern(1): multidrug efflux MFS transporter
+Information Gain: 0.150746 ; p-value: 0 ; q-value: 0
+Support (by genome not transaction) in label 0: 640/2220
+Support (by genome not transaction) in label 1: 12/5956
+//
+Rank 15
+Minimal pattern(1): LysR family transcriptional regulator
+Complete pattern(1): LysR family transcriptional regulator
+Information Gain: 0.134347 ; p-value: 0 ; q-value: 0
+Support (by genome not transaction) in label 0: 365/2220
+Support (by genome not transaction) in label 1: 3774/5956
+//
+Rank 16
+Minimal pattern(1): thiol:disulfide interchange protein DsbG
+Complete pattern(1): thiol:disulfide interchange protein DsbG
+Information Gain: 0.130882 ; p-value: 9.38725e-323 ; q-value: 2.39571e-318
+Support (by genome not transaction) in label 0: 0/2220
+Support (by genome not transaction) in label 1: 1987/5956
+//
+Rank 17
+Minimal pattern(2): OFA family MFS transporter,isochorismate synthase DhbC
+Complete pattern(3): OFA family MFS transporter,isochorismate synthase DhbC,2-3-dihydro-2-3-dihydroxybenzoate dehydrogenase
+Information Gain: 0.130734 ; p-value: 1.92686e-322 ; q-value: 4.62824e-318
+Support (by genome not transaction) in label 0: 529/2220
+Support (by genome not transaction) in label 1: 0/5956
+//
+Rank 18
+Minimal pattern(1): sodium:alanine symporter family protein
+Complete pattern(1): sodium:alanine symporter family protein
+Information Gain: 0.128074 ; p-value: 1.18688e-316 ; q-value: 2.69247e-312
+Support (by genome not transaction) in label 0: 537/2220
+Support (by genome not transaction) in label 1: 5/5956
+//
+Rank 19
+Minimal pattern(1): DUF3891 family protein
+Complete pattern(1): DUF3891 family protein
+Information Gain: 0.12781 ; p-value: 2.98609e-315 ; q-value: 6.41749e-311
+Support (by genome not transaction) in label 0: 518/2220
+Support (by genome not transaction) in label 1: 0/5956
+//
+Rank 20
+Minimal pattern(1): 4'-phosphopantetheinyl transferase Sfp
+Complete pattern(1): 4'-phosphopantetheinyl transferase Sfp
+Information Gain: 0.125425 ; p-value: 2.21103e-309 ; q-value: 4.5142e-305
+Support (by genome not transaction) in label 0: 509/2220
+Support (by genome not transaction) in label 1: 0/5956
+//
+Rank 21
+Minimal pattern(2): HU family DNA-binding protein,MbtH family protein
+Complete pattern(2): HU family DNA-binding protein,MbtH family protein
+Information Gain: 0.124631 ; p-value: 1.98399e-307 ; q-value: 3.68241e-303
+Support (by genome not transaction) in label 0: 506/2220
+Support (by genome not transaction) in label 1: 0/5956
+//
+Rank 22
+Minimal pattern(1): 4'-phosphopantetheinyl transferase superfamily protein
+Complete pattern(1): 4'-phosphopantetheinyl transferase superfamily protein
+Information Gain: 0.12459 ; p-value: 7.71552e-309 ; q-value: 1.50024e-304
+Support (by genome not transaction) in label 0: 1242/2220
+Support (by genome not transaction) in label 1: 822/5956
+//
+Rank 23
+Minimal pattern(2): thioesterase,4'-phosphopantetheinyl transferase superfamily protein
+Complete pattern(2): thioesterase,4'-phosphopantetheinyl transferase superfamily protein
+Information Gain: 0.122753 ; p-value: 4.29628e-304 ; q-value: 7.62747e-300
+Support (by genome not transaction) in label 0: 646/2220
+Support (by genome not transaction) in label 1: 76/5956
+//
+Rank 24
+Minimal pattern(1): YkvS family protein
+Complete pattern(2): YkvS family protein,2-3-dihydro-2-3-dihydroxybenzoate dehydrogenase
+Information Gain: 0.120674 ; p-value: 1.08588e-297 ; q-value: 1.84751e-293
+Support (by genome not transaction) in label 0: 491/2220
+Support (by genome not transaction) in label 1: 0/5956
+//
+Rank 25
+Minimal pattern(2): threonine--tRNA ligase,2-3-dihydro-2-3-dihydroxybenzoate dehydrogenase
+Complete pattern(2): threonine--tRNA ligase,2-3-dihydro-2-3-dihydroxybenzoate dehydrogenase
+Information Gain: 0.120148 ; p-value: 2.14238e-296 ; q-value: 3.49923e-292
+Support (by genome not transaction) in label 0: 489/2220
+Support (by genome not transaction) in label 1: 0/5956
+//
+Rank 26
+Minimal pattern(1): exonuclease SbcCD subunit D
+Complete pattern(1): exonuclease SbcCD subunit D
+Information Gain: 0.119885 ; p-value: 9.50962e-296 ; q-value: 1.43819e-291
+Support (by genome not transaction) in label 0: 488/2220
+Support (by genome not transaction) in label 1: 0/5956
+//
+Rank 27
+Minimal pattern(2): winged helix-turn-helix transcriptional regulator,ABC transporter ATP-binding protein
+Complete pattern(2): winged helix-turn-helix transcriptional regulator,ABC transporter ATP-binding protein
+Information Gain: 0.11958 ; p-value: 4.31275e-296 ; q-value: 6.77325e-292
+Support (by genome not transaction) in label 0: 555/2220
+Support (by genome not transaction) in label 1: 27/5956
+//
+Rank 28
+Minimal pattern(3): NAD(P)-dependent oxidoreductase,MbtH family protein,2-3-dihydro-2-3-dihydroxybenzoate dehydrogenase
+Complete pattern(3): NAD(P)-dependent oxidoreductase,MbtH family protein,2-3-dihydro-2-3-dihydroxybenzoate dehydrogenase
+Information Gain: 0.118571 ; p-value: 1.62772e-292 ; q-value: 2.37377e-288
+Support (by genome not transaction) in label 0: 483/2220
+Support (by genome not transaction) in label 1: 0/5956
+//
+Rank 29
+Minimal pattern(2): enoyl-CoA hydratase/isomerase family protein,isochorismate synthase DhbC
+Complete pattern(3): enoyl-CoA hydratase/isomerase family protein,isochorismate synthase DhbC,2-3-dihydro-2-3-dihydroxybenzoate dehydrogenase
+Information Gain: 0.117521 ; p-value: 6.23491e-290 ; q-value: 8.77906e-286
+Support (by genome not transaction) in label 0: 479/2220
+Support (by genome not transaction) in label 1: 0/5956
+//
+Rank 30
+Minimal pattern(1): SMC family ATPase
+Complete pattern(1): SMC family ATPase
+Information Gain: 0.117521 ; p-value: 6.23491e-290 ; q-value: 8.48642e-286
+Support (by genome not transaction) in label 0: 479/2220
+Support (by genome not transaction) in label 1: 0/5956

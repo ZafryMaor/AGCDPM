@@ -1,0 +1,96 @@
+//
+Rank 1
+Pattern(7): penicillin acylase family protein,phenazine biosynthesis protein PhzB,2OG-Fe(II) oxygenase,fatty acid desaturase,phenazine,quorum-sensing transcriptional repressor QscR,sterol desaturase family protein
+Redundancy (higher value = higher chance of being redundant): 5
+//
+Rank 2
+Pattern(5): multidrug efflux RND transporter permease MexI,phenazine biosynthesis protein PhzA,phenazine,multidrug efflux RND transporter periplasmic adaptor MexH,multidrug efflux transporter outer membrane subunit OpmD
+Redundancy (higher value = higher chance of being redundant): 4
+//
+Rank 3
+Pattern(8): phenazine biosynthesis protein PhzC,2OG-Fe(II) oxygenase,phenazine biosynthesis protein PhzB,fatty acid desaturase,penicillin acylase family protein,phenazine,quorum-sensing transcriptional repressor QscR,sterol desaturase family protein
+Redundancy (higher value = higher chance of being redundant): 3
+//
+Rank 4
+Pattern(8): 2OG-Fe(II) oxygenase,phenazine biosynthesis protein PhzB,phenazine biosynthesis protein PhzA,fatty acid desaturase,penicillin acylase family protein,phenazine,quorum-sensing transcriptional repressor QscR,sterol desaturase family protein
+Redundancy (higher value = higher chance of being redundant): 2
+//
+Rank 5
+Pattern(4): pyoverdine export ABC transporter PvdE,phosphopantetheine-binding protein,pyoverdine biosynthesis hydroxyornithine transformylase PvdF,ferripyoverdine/pyocin S3 receptor FpvA
+Redundancy (higher value = higher chance of being redundant): 1
+//
+Rank 6
+Pattern(6): multidrug efflux RND transporter inhibitory subunit MexG,phenazine biosynthesis protein PhzA,phenazine,multidrug efflux RND transporter periplasmic adaptor MexH,multidrug efflux RND transporter permease MexI,multidrug efflux transporter outer membrane subunit OpmD
+Redundancy (higher value = higher chance of being redundant): 1
+//
+Rank 7
+Pattern(21): acyltransferase domain-containing protein,ATP-binding cassette domain-containing protein,LysR family transcriptional regulator,alpha/beta fold hydrolase,ABC transporter permease,acyl carrier protein,transporter,ABC transporter substrate-binding protein,amino acid adenylation domain-containing protein,CerR family C-terminal domain-containing protein,HlyD family efflux transporter periplasmic adaptor subunit,T1PKS,T3PKS,acyl-CoA/acyl-ACP dehydrogenase,aliphatic sulfonate ABC transporter substrate-binding protein,efflux transporter outer membrane subunit,polyamine ABC transporter substrate-binding protein,quorum threshold expression protein QteE,transcriptional regulator VqsR,tryptophan 7-halogenase,type III polyketide synthase
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 8
+Pattern(7): quorum-sensing transcriptional regulator RsaL,cation-transporting P-type ATPase,EAL domain-containing protein,acyl-homoserine-lactone synthase LasI,hserlactone,transcriptional regulator LasR,transglutaminase-like cysteine peptidase
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 9
+Pattern(13): phenazine biosynthesis protein PhzA 2,MFS transporter,2OG-Fe(II) oxygenase,HIT family protein,fatty acid desaturase,penicillin acylase family protein,phenazine,phenazine biosynthesis FMN-dependent oxidase PhzG,phenazine biosynthesis protein PhzC,phenazine biosynthesis protein PhzD,phenazine biosynthesis protein PhzF,quorum-sensing transcriptional repressor QscR,sterol desaturase family protein
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 10
+Pattern(9): outer membrane porin OprO,DoxX family protein,RiPP-like,DUF2063 domain-containing protein,RNA polymerase sigma factor,ankyrin repeat domain-containing protein,beta-ketoacyl-ACP synthase III,cysteine hydrolase family protein,zf-HC2 domain-containing protein
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 11
+Pattern(23): carbohydrate porin OprB,DUF971 domain-containing protein,acyl-CoA dehydrogenase family protein,serine hydrolase,MFS transporter,FAD-binding oxidoreductase,cupin domain-containing protein,LysR family transcriptional regulator,TauD/TfdA family dioxygenase,ABC transporter ATP-binding protein,ABC transporter permease,NRPS,ABC transporter substrate-binding protein,GntP family permease,GntR family transcriptional regulator,HEAT repeat domain-containing protein,LacI family DNA-binding transcriptional regulator GntR,LysE family translocator,NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,XRE family transcriptional regulator,YbaK/EbsC family protein,ferredoxin family protein,fumarate reductase/succinate dehydrogenase flavoprotein subunit
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 12
+Pattern(7): gluconolactonase PpgL,phenazine biosynthesis protein PhzA,phenazine,multidrug efflux RND transporter inhibitory subunit MexG,multidrug efflux RND transporter periplasmic adaptor MexH,multidrug efflux RND transporter permease MexI,multidrug efflux transporter outer membrane subunit OpmD
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 13
+Pattern(17): alpha-alpha-trehalase TreA,condensation domain-containing protein,LysR family transcriptional regulator,hydrolase,pirin family protein,aspartate aminotransferase family protein,NRPS,PepSY domain-containing protein,DUF6162 family protein,MbtH family protein,OprD family porin,metal ABC transporter ATP-binding protein,metal ABC transporter permease,metal ABC transporter substrate-binding protein,sorbosone dehydrogenase family protein,thioesterase II family protein,zinc ABC transporter substrate-binding protein
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 14
+Pattern(10): phenazine biosynthesis protein PhzF,2OG-Fe(II) oxygenase,phenazine biosynthesis protein PhzB,phenazine biosynthesis protein PhzA,fatty acid desaturase,penicillin acylase family protein,phenazine,phenazine biosynthesis protein PhzC,quorum-sensing transcriptional repressor QscR,sterol desaturase family protein
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 15
+Pattern(9): phenazine biosynthesis FMN-dependent oxidase PhzG,2OG-Fe(II) oxygenase,phenazine biosynthesis protein PhzB,phenazine biosynthesis protein PhzA,fatty acid desaturase,penicillin acylase family protein,phenazine,quorum-sensing transcriptional repressor QscR,sterol desaturase family protein
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 16
+Pattern(17): phenazine-specific anthranilate synthase component I,ABC transporter ATP-binding protein PchH,phenazine biosynthesis FMN-dependent oxidase PhzG,phenazine biosynthesis protein PhzF,ABC transporter ATP-binding protein PchI,Fe(3+)-pyochelin receptor FptA,NRPS,PepSY domain-containing protein,isochorismate lyase PchB,isochorismate synthase PchA,pyochelin biosynthesis editing thioesterase PchC,pyochelin biosynthesis salicyl-AMP ligase PchD,pyochelin biosynthesis thiazoline reductase PchG,pyochelin biosynthesis transcriptional regulator PchR,pyochelin non-ribosomal peptide synthetase PchE,pyochelin non-ribosomal peptide synthetase PchF,pyocyanin biosynthetic protein PhzM
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 17
+Pattern(14): phenazine biosynthesis protein phzB 2,dienelactone hydrolase,MFS transporter,2OG-Fe(II) oxygenase,HIT family protein,fatty acid desaturase,penicillin acylase family protein,phenazine,phenazine biosynthesis FMN-dependent oxidase PhzG,phenazine biosynthesis protein PhzC,phenazine biosynthesis protein PhzD,phenazine biosynthesis protein PhzF,quorum-sensing transcriptional repressor QscR,sterol desaturase family protein
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 18
+Pattern(9): phenazine biosynthesis protein PhzD,2OG-Fe(II) oxygenase,phenazine biosynthesis protein PhzB,fatty acid desaturase,penicillin acylase family protein,phenazine,phenazine biosynthesis protein PhzC,quorum-sensing transcriptional repressor QscR,sterol desaturase family protein
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 19
+Pattern(6): HIT family protein,phenazine biosynthesis protein PhzB,MFS transporter,phenazine biosynthesis protein PhzA,phenazine biosynthesis protein PhzC,phenazine
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 20
+Pattern(10): phenazine biosynthesis protein PhzE,2OG-Fe(II) oxygenase,phenazine biosynthesis protein PhzB,fatty acid desaturase,penicillin acylase family protein,phenazine,phenazine biosynthesis protein PhzC,phenazine biosynthesis protein PhzD,quorum-sensing transcriptional repressor QscR,sterol desaturase family protein
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 21
+Pattern(10): porin,outer membrane porin OprP,DoxX family protein,RiPP-like,DUF2063 domain-containing protein,RNA polymerase sigma factor,ankyrin repeat domain-containing protein,beta-ketoacyl-ACP synthase III,cysteine hydrolase family protein,zf-HC2 domain-containing protein
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 22
+Pattern(20): condensation domain-containing protein,DNA helicase RecQ,non-ribosomal peptide synthetase,MFS transporter,class I SAM-dependent methyltransferase,NRPS,cytochrome P450,MarR family transcriptional regulator,ADP-glyceromanno-heptose 6-epimerase,ATP-dependent Clp protease proteolytic subunit,DUF2804 domain-containing protein,FAD-dependent monooxygenase,FimV family protein,GGDEF domain-containing protein,SelT/SelW/SelH family protein,acyl carrier protein,ketoacyl-ACP synthase III,nuclear transport factor 2 family protein,patatin-like phospholipase PlpD,two-component system sensor histidine kinase HtpB
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 23
+Pattern(33): phosphoethanolamine--lipid A transferase,condensation domain-containing protein,non-ribosomal peptide synthetase,DNA helicase RecQ,DMT family transporter,MFS transporter,class I SAM-dependent methyltransferase,ABC transporter permease,NAD(P)-dependent oxidoreductase,SDR family oxidoreductase,NRPS,cytochrome P450,MarR family transcriptional regulator,ADP-glyceromanno-heptose 6-epimerase,ATP-dependent Clp protease proteolytic subunit,DUF2804 domain-containing protein,FAD-dependent monooxygenase,FimV family protein,GGDEF domain-containing protein,M24 family metallopeptidase,MerR family transcriptional regulator,SelT/SelW/SelH family protein,acyl carrier protein,bifunctional diguanylate,ketoacyl-ACP synthase III,metal-dependent hydrolase,nuclear transport factor 2 family protein,patatin-like phospholipase PlpD,phospholipase C- phosphocholine-specific,phosphonate ABC transporter ATP-binding protein,phosphonate ABC transporter- permease protein PhnE,putative selenate ABC transporter substrate-binding protein,two-component system sensor histidine kinase HtpB
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 24
+Pattern(6): phenazine-1-carboxylate N-methyltransferase PhzM,phenazine biosynthesis protein PhzA,phenazine,multidrug efflux RND transporter periplasmic adaptor MexH,multidrug efflux RND transporter permease MexI,multidrug efflux transporter outer membrane subunit OpmD
+Redundancy (higher value = higher chance of being redundant): 0

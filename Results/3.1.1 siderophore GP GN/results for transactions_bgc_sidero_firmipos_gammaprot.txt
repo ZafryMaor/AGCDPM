@@ -1,0 +1,211 @@
+Parameters used: min_sup = 1, k = 30, l = 6
+//
+Rank 1
+Minimal pattern(1): petrobactin biosynthesis protein AsbD
+Complete pattern(1): petrobactin biosynthesis protein AsbD
+Information Gain: 0.25352 ; p-value: 2.04103e-300 ; q-value: 1.29197e-297
+Support (by genome not transaction) in label 0: 544/1311
+Support (by genome not transaction) in label 1: 0/2617
+//
+Rank 2
+Minimal pattern(1): TonB-dependent siderophore receptor
+Complete pattern(1): TonB-dependent siderophore receptor
+Information Gain: 0.222097 ; p-value: 3.9513e-263 ; q-value: 1.25059e-260
+Support (by genome not transaction) in label 0: 0/1311
+Support (by genome not transaction) in label 1: 1188/2617
+//
+Rank 3
+Minimal pattern(1): alpha/beta-type small acid-soluble spore protein
+Complete pattern(2): alpha/beta-type small acid-soluble spore protein,petrobactin biosynthesis protein AsbD
+Information Gain: 0.217275 ; p-value: 1.4243e-257 ; q-value: 3.00528e-255
+Support (by genome not transaction) in label 0: 476/1311
+Support (by genome not transaction) in label 1: 0/2617
+//
+Rank 4
+Minimal pattern(1): MgtC/SapB family protein
+Complete pattern(3): MgtC/SapB family protein,GNAT family N-acetyltransferase,petrobactin biosynthesis protein AsbD
+Information Gain: 0.213116 ; p-value: 1.17636e-252 ; q-value: 1.86159e-250
+Support (by genome not transaction) in label 0: 468/1311
+Support (by genome not transaction) in label 1: 0/2617
+//
+Rank 5
+Minimal pattern(1): polysaccharide deacetylase
+Complete pattern(4): polysaccharide deacetylase,GNAT family N-acetyltransferase,MgtC/SapB family protein,petrobactin biosynthesis protein AsbD
+Information Gain: 0.209493 ; p-value: 2.25118e-248 ; q-value: 2.84999e-246
+Support (by genome not transaction) in label 0: 461/1311
+Support (by genome not transaction) in label 1: 0/2617
+//
+Rank 6
+Minimal pattern(2): AMP-binding protein,petrobactin biosynthesis protein AsbD
+Complete pattern(2): AMP-binding protein,petrobactin biosynthesis protein AsbD
+Information Gain: 0.186582 ; p-value: 2.72861e-221 ; q-value: 2.87868e-219
+Support (by genome not transaction) in label 0: 416/1311
+Support (by genome not transaction) in label 1: 0/2617
+//
+Rank 7
+Minimal pattern(2): sugar phosphate isomerase/epimerase,petrobactin biosynthesis protein AsbD
+Complete pattern(2): sugar phosphate isomerase/epimerase,petrobactin biosynthesis protein AsbD
+Information Gain: 0.182574 ; p-value: 1.48877e-216 ; q-value: 1.34627e-214
+Support (by genome not transaction) in label 0: 408/1311
+Support (by genome not transaction) in label 1: 0/2617
+//
+Rank 8
+Minimal pattern(1): GNAT family N-acetyltransferase
+Complete pattern(1): GNAT family N-acetyltransferase
+Information Gain: 0.174321 ; p-value: 4.15602e-208 ; q-value: 3.28845e-206
+Support (by genome not transaction) in label 0: 578/1311
+Support (by genome not transaction) in label 1: 105/2617
+//
+Rank 9
+Minimal pattern(1): DUF2273 domain-containing protein
+Complete pattern(3): DUF2273 domain-containing protein,Asp23/Gls24 family envelope stress response protein,alkaline shock response membrane anchor protein AmaP
+Information Gain: 0.156021 ; p-value: 3.63929e-185 ; q-value: 2.55964e-183
+Support (by genome not transaction) in label 0: 354/1311
+Support (by genome not transaction) in label 1: 0/2617
+//
+Rank 10
+Minimal pattern(1): Asp23/Gls24 family envelope stress response protein
+Complete pattern(3): Asp23/Gls24 family envelope stress response protein,DUF2273 domain-containing protein,alkaline shock response membrane anchor protein AmaP
+Information Gain: 0.156021 ; p-value: 3.63929e-185 ; q-value: 2.30367e-183
+Support (by genome not transaction) in label 0: 354/1311
+Support (by genome not transaction) in label 1: 0/2617
+//
+Rank 11
+Minimal pattern(1): alkaline shock response membrane anchor protein AmaP
+Complete pattern(3): alkaline shock response membrane anchor protein AmaP,Asp23/Gls24 family envelope stress response protein,DUF2273 domain-containing protein
+Information Gain: 0.156021 ; p-value: 3.63929e-185 ; q-value: 2.09425e-183
+Support (by genome not transaction) in label 0: 354/1311
+Support (by genome not transaction) in label 1: 0/2617
+//
+Rank 12
+Minimal pattern(2): HAMP domain-containing histidine kinase,GNAT family N-acetyltransferase
+Complete pattern(4): HAMP domain-containing histidine kinase,GNAT family N-acetyltransferase,MgtC/SapB family protein,petrobactin biosynthesis protein AsbD
+Information Gain: 0.141152 ; p-value: 1.37396e-167 ; q-value: 7.24764e-166
+Support (by genome not transaction) in label 0: 323/1311
+Support (by genome not transaction) in label 1: 0/2617
+//
+Rank 13
+Minimal pattern(2): ABC transporter substrate-binding protein,iron ABC transporter permease
+Complete pattern(2): ABC transporter substrate-binding protein,iron ABC transporter permease
+Information Gain: 0.135674 ; p-value: 3.4916e-162 ; q-value: 1.70014e-160
+Support (by genome not transaction) in label 0: 379/1311
+Support (by genome not transaction) in label 1: 26/2617
+//
+Rank 14
+Minimal pattern(1): SidA/IucD/PvdA family monooxygenase
+Complete pattern(1): SidA/IucD/PvdA family monooxygenase
+Information Gain: 0.131842 ; p-value: 1.46942e-157 ; q-value: 6.64389e-156
+Support (by genome not transaction) in label 0: 20/1311
+Support (by genome not transaction) in label 1: 916/2617
+//
+Rank 15
+Minimal pattern(2): zinc-binding alcohol dehydrogenase family protein,Asp23/Gls24 family envelope stress response protein
+Complete pattern(4): zinc-binding alcohol dehydrogenase family protein,Asp23/Gls24 family envelope stress response protein,DUF2273 domain-containing protein,alkaline shock response membrane anchor protein AmaP
+Information Gain: 0.126075 ; p-value: 9.13166e-150 ; q-value: 3.85356e-148
+Support (by genome not transaction) in label 0: 291/1311
+Support (by genome not transaction) in label 1: 0/2617
+//
+Rank 16
+Minimal pattern(2): iron chelate uptake ABC transporter family permease subunit,ABC transporter substrate-binding protein
+Complete pattern(2): iron chelate uptake ABC transporter family permease subunit,ABC transporter substrate-binding protein
+Information Gain: 0.118055 ; p-value: 2.11101e-141 ; q-value: 8.3517e-140
+Support (by genome not transaction) in label 0: 355/1311
+Support (by genome not transaction) in label 1: 34/2617
+//
+Rank 17
+Minimal pattern(1): BCCT family transporter
+Complete pattern(1): BCCT family transporter
+Information Gain: 0.11081 ; p-value: 3.7465e-132 ; q-value: 1.39502e-130
+Support (by genome not transaction) in label 0: 263/1311
+Support (by genome not transaction) in label 1: 1/2617
+//
+Rank 18
+Minimal pattern(1): YkyA family protein
+Complete pattern(4): YkyA family protein,GNAT family N-acetyltransferase,MgtC/SapB family protein,petrobactin biosynthesis protein AsbD
+Information Gain: 0.108973 ; p-value: 1.50586e-129 ; q-value: 5.29559e-128
+Support (by genome not transaction) in label 0: 254/1311
+Support (by genome not transaction) in label 1: 0/2617
+//
+Rank 19
+Minimal pattern(1): TonB-dependent receptor
+Complete pattern(1): TonB-dependent receptor
+Information Gain: 0.107908 ; p-value: 3.09857e-128 ; q-value: 1.03231e-126
+Support (by genome not transaction) in label 0: 0/1311
+Support (by genome not transaction) in label 1: 647/2617
+//
+Rank 20
+Minimal pattern(2): iron ABC transporter permease,MFS transporter
+Complete pattern(2): iron ABC transporter permease,MFS transporter
+Information Gain: 0.100661 ; p-value: 1.13414e-120 ; q-value: 3.58956e-119
+Support (by genome not transaction) in label 0: 277/1311
+Support (by genome not transaction) in label 1: 14/2617
+//
+Rank 21
+Minimal pattern(2): acetyltransferase,SidA/IucD/PvdA family monooxygenase
+Complete pattern(2): acetyltransferase,SidA/IucD/PvdA family monooxygenase
+Information Gain: 0.0827569 ; p-value: 4.08439e-99 ; q-value: 1.23115e-97
+Support (by genome not transaction) in label 0: 9/1311
+Support (by genome not transaction) in label 1: 587/2617
+//
+Rank 22
+Minimal pattern(1): alanine/ornithine racemase family PLP-dependent enzyme
+Complete pattern(1): alanine/ornithine racemase family PLP-dependent enzyme
+Information Gain: 0.0678855 ; p-value: 5.6054e-81 ; q-value: 1.61283e-79
+Support (by genome not transaction) in label 0: 162/1311
+Support (by genome not transaction) in label 1: 0/2617
+//
+Rank 23
+Minimal pattern(1): petrobactin biosynthesis protein AsbE
+Complete pattern(2): petrobactin biosynthesis protein AsbE,petrobactin biosynthesis protein AsbD
+Information Gain: 0.0631027 ; p-value: 2.52645e-75 ; q-value: 6.95322e-74
+Support (by genome not transaction) in label 0: 151/1311
+Support (by genome not transaction) in label 1: 0/2617
+//
+Rank 24
+Minimal pattern(2): type III PLP-dependent enzyme,TonB-dependent siderophore receptor
+Complete pattern(2): type III PLP-dependent enzyme,TonB-dependent siderophore receptor
+Information Gain: 0.0622287 ; p-value: 5.56528e-74 ; q-value: 1.46784e-72
+Support (by genome not transaction) in label 0: 0/1311
+Support (by genome not transaction) in label 1: 391/2617
+//
+Rank 25
+Minimal pattern(1): MFS transporter
+Complete pattern(1): MFS transporter
+Information Gain: 0.0579786 ; p-value: 1.80385e-70 ; q-value: 4.56734e-69
+Support (by genome not transaction) in label 0: 516/1311
+Support (by genome not transaction) in label 1: 1805/2617
+//
+Rank 26
+Minimal pattern(3): lysine N(6)-hydroxylase/L-ornithine N(5)-oxygenase family protein,acetyltransferase,aspartate aminotransferase family protein
+Complete pattern(3): lysine N(6)-hydroxylase/L-ornithine N(5)-oxygenase family protein,acetyltransferase,aspartate aminotransferase family protein
+Information Gain: 0.0565396 ; p-value: 1.44393e-68 ; q-value: 3.51542e-67
+Support (by genome not transaction) in label 0: 185/1311
+Support (by genome not transaction) in label 1: 20/2617
+//
+Rank 27
+Minimal pattern(1): 3-4-dihydroxybenzoic acid-AMP ligase AsbC
+Complete pattern(2): 3-4-dihydroxybenzoic acid-AMP ligase AsbC,petrobactin biosynthesis protein AsbD
+Information Gain: 0.0531878 ; p-value: 1.32857e-63 ; q-value: 3.11477e-62
+Support (by genome not transaction) in label 0: 128/1311
+Support (by genome not transaction) in label 1: 0/2617
+//
+Rank 28
+Minimal pattern(2): alanine racemase,Asp23/Gls24 family envelope stress response protein
+Complete pattern(4): alanine racemase,Asp23/Gls24 family envelope stress response protein,DUF2273 domain-containing protein,alkaline shock response membrane anchor protein AmaP
+Information Gain: 0.051903 ; p-value: 4.388e-62 ; q-value: 9.92002e-61
+Support (by genome not transaction) in label 0: 125/1311
+Support (by genome not transaction) in label 1: 0/2617
+//
+Rank 29
+Minimal pattern(1): tRNA-Asn
+Complete pattern(2): tRNA-Asn,TonB-dependent siderophore receptor
+Information Gain: 0.0489796 ; p-value: 1.671e-58 ; q-value: 3.64739e-57
+Support (by genome not transaction) in label 0: 0/1311
+Support (by genome not transaction) in label 1: 312/2617
+//
+Rank 30
+Minimal pattern(1): bifunctional transcriptional
+Complete pattern(1): bifunctional transcriptional
+Information Gain: 0.0484861 ; p-value: 4.80349e-58 ; q-value: 1.01354e-56
+Support (by genome not transaction) in label 0: 117/1311
+Support (by genome not transaction) in label 1: 0/2617

@@ -1,0 +1,6 @@
+petrobactin biosynthesis protein AsbD
+DUF2273 domain-containing protein,Asp23/Gls24 family envelope stress response protein,alkaline shock response membrane anchor protein AmaP
+MgtC/SapB family protein,GNAT family N-acetyltransferase,petrobactin biosynthesis protein AsbD
+TonB-dependent siderophore receptor
+GNAT family N-acetyltransferase
+SidA/IucD/PvdA family monooxygenase

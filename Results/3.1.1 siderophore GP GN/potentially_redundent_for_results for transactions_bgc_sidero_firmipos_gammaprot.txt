@@ -1,0 +1,112 @@
+//
+Rank 1
+Pattern(1): petrobactin biosynthesis protein AsbD
+Redundancy (higher value = higher chance of being redundant): 9
+//
+Rank 2
+Pattern(3): DUF2273 domain-containing protein,Asp23/Gls24 family envelope stress response protein,alkaline shock response membrane anchor protein AmaP
+Redundancy (higher value = higher chance of being redundant): 4
+//
+Rank 3
+Pattern(3): MgtC/SapB family protein,GNAT family N-acetyltransferase,petrobactin biosynthesis protein AsbD
+Redundancy (higher value = higher chance of being redundant): 3
+//
+Rank 4
+Pattern(1): TonB-dependent siderophore receptor
+Redundancy (higher value = higher chance of being redundant): 2
+//
+Rank 5
+Pattern(1): GNAT family N-acetyltransferase
+Redundancy (higher value = higher chance of being redundant): 2
+//
+Rank 6
+Pattern(1): SidA/IucD/PvdA family monooxygenase
+Redundancy (higher value = higher chance of being redundant): 1
+//
+Rank 7
+Pattern(4): alanine racemase,Asp23/Gls24 family envelope stress response protein,DUF2273 domain-containing protein,alkaline shock response membrane anchor protein AmaP
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 8
+Pattern(2): 3-4-dihydroxybenzoic acid-AMP ligase AsbC,petrobactin biosynthesis protein AsbD
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 9
+Pattern(2): tRNA-Asn,TonB-dependent siderophore receptor
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 10
+Pattern(1): bifunctional transcriptional
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 11
+Pattern(3): lysine N(6)-hydroxylase/L-ornithine N(5)-oxygenase family protein,acetyltransferase,aspartate aminotransferase family protein
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 12
+Pattern(1): MFS transporter
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 13
+Pattern(2): type III PLP-dependent enzyme,TonB-dependent siderophore receptor
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 14
+Pattern(2): petrobactin biosynthesis protein AsbE,petrobactin biosynthesis protein AsbD
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 15
+Pattern(1): alanine/ornithine racemase family PLP-dependent enzyme
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 16
+Pattern(2): acetyltransferase,SidA/IucD/PvdA family monooxygenase
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 17
+Pattern(2): iron ABC transporter permease,MFS transporter
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 18
+Pattern(1): TonB-dependent receptor
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 19
+Pattern(4): YkyA family protein,GNAT family N-acetyltransferase,MgtC/SapB family protein,petrobactin biosynthesis protein AsbD
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 20
+Pattern(1): BCCT family transporter
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 21
+Pattern(2): iron chelate uptake ABC transporter family permease subunit,ABC transporter substrate-binding protein
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 22
+Pattern(4): zinc-binding alcohol dehydrogenase family protein,Asp23/Gls24 family envelope stress response protein,DUF2273 domain-containing protein,alkaline shock response membrane anchor protein AmaP
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 23
+Pattern(2): ABC transporter substrate-binding protein,iron ABC transporter permease
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 24
+Pattern(4): HAMP domain-containing histidine kinase,GNAT family N-acetyltransferase,MgtC/SapB family protein,petrobactin biosynthesis protein AsbD
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 25
+Pattern(2): sugar phosphate isomerase/epimerase,petrobactin biosynthesis protein AsbD
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 26
+Pattern(2): AMP-binding protein,petrobactin biosynthesis protein AsbD
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 27
+Pattern(4): polysaccharide deacetylase,GNAT family N-acetyltransferase,MgtC/SapB family protein,petrobactin biosynthesis protein AsbD
+Redundancy (higher value = higher chance of being redundant): 0
+//
+Rank 28
+Pattern(2): alpha/beta-type small acid-soluble spore protein,petrobactin biosynthesis protein AsbD
+Redundancy (higher value = higher chance of being redundant): 0
