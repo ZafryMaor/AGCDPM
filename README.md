@@ -1,4 +1,4 @@
-# Annotated Gene Clusters Discriminative Patterns Miner
+# Discriminative BGC Associated Miner
 
 Maor M. Zafry
 <br>
@@ -17,7 +17,7 @@ This repo contains a stand-alone command line application for Linux systems as w
 
 ## Input
 The general command for running the application is:<br>
-./agcdpm [path_to_transaction_dataset_file] [-r] [-e] [-a path_to_item_annotations_file]
+./dbaminer [path_to_transaction_dataset_file] [-r] [-e] [-a path_to_item_annotations_file]
 
 ### Required
 
